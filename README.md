@@ -1,1 +1,1 @@
-# licheerv_nano_genfip
+# sophgo_sg200x_genfip
